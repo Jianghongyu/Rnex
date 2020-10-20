@@ -43,5 +43,5 @@ the
 zoo
 felt 
 obiged
-investigate
-hypothetical
+investigate 调查
+hypothetical 假设的，假想的
