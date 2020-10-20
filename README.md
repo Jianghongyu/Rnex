@@ -15,3 +15,11 @@ only five yards away from her.
 Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.
 The search proved difficult, for the puma was often observed at one place in the moring and at another
 place twenty miles away in the evening.
+Paw prints were seen in a number of places and puma fur was found clinging to bushes.
+Several people complained of cat-like noises and a businessman on a fishing trip 
+saw the puma up a tree.
+The experts were now fully convinced that the animal was a puma, but where had it come from?
+As no pumas had been reported missing from any zoo in the country, this one must have been 
+in the possession of a private collector and somehow managed to escape.
+The hunt went on for several weeks but the puma was not caught.
+It is disturbing to think that a dangerous wild animal is still at large in the queit countryside.
