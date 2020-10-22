@@ -102,13 +102,13 @@ Did it cost a lot to fly to Rio?
 
 # high 
 Rents in central London are very high.
-# 1 sharp
-## costly mistake
-### 3 sharps
-#### 4 sharps
-##### 5 sharps
-###### 6 sharps
+
+# costly mistake
+
+
 Buying all those computers was a costly mistake.
+
+
 $$
 e^x = f(x)\\
 \sin^2 x + \cos ^2 x = 1
