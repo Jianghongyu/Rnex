@@ -1,17 +1,18 @@
+# ventilated
 Workrooms must be adequately ventilated by the circulation of fresh air.
 
 Store the potatoes in a cool, dark, well-ventilated space.
 
 Working in a poorly ventilated area will affect your health.
-
+# blow up
 Come and help me blow up the balloons.
-
+# build up
 Resentment and jealousy can often build up in relationships.
-
+# let go of
 It was not easy to persuade the monarchy to let go of its monopoly of power.
-
+# transform
 At that time, Nepal was transformed from an absolute monarchy into a multi-party democracy.
-
+# have something left 
 I didn't have any time left to finish.
 
 The theatre didn't have any seats left when I went to get tickets.
