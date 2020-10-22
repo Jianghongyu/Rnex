@@ -81,3 +81,25 @@ The government's campaign to recruit more black police officers has not been a s
 # recruit
 At many banks, young recruits first work as tellers.
 
+
+
+# expensive
+She spends most of her money on expensive clothes.
+
+Do you have any less expensive cameras?
+
+# these days
+# expensive to make
+Movies are incredibly expensive to make these days.
+
+# manage to do
+# cost a lot (of money)
+I managed to find the bike I wanted but it cost a lot.
+It costs a lot of money to go to medical school, you know.
+Did it cost a lot to fly to Rio?
+
+# high 
+Rents in central London are very high.
+
+# costly mistake
+Buying all those computers was a costly mistake.
