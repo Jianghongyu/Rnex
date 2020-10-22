@@ -108,5 +108,8 @@ Rents in central London are very high.
 #### 4 sharps
 ##### 5 sharps
 ###### 6 sharps
-####### 7 sharps
 Buying all those computers was a costly mistake.
+$$
+e^x = f(x)\\
+\sin^2 x + \cos ^2 x = 1
+$$
