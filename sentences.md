@@ -102,6 +102,8 @@ Did it cost a lot to fly to Rio?
 
 # high 
 Rents in central London are very high.
-
-# costly mistake
+# 1 sharp
+## costly mistake
+### 3 sharps
+#### 4 sharps
 Buying all those computers was a costly mistake.
