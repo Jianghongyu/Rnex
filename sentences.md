@@ -106,4 +106,6 @@ Rents in central London are very high.
 ## costly mistake
 ### 3 sharps
 #### 4 sharps
+##### 5 sharps
+###### 6 sharps
 Buying all those computers was a costly mistake.
