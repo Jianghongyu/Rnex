@@ -30,7 +30,9 @@ She showed a complete lack of interest in her own baby.
 # go without
 Lucas's soldiers had to go without food and water for several days.
 
-# do without / manage without
+# one sharp
+## do without / manage without
+### three sharps
 For three years I managed without pain-killing drugs.
 
 From May to November it is very hot, but the schools do without air-conditioning.
